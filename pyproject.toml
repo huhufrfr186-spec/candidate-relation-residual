@@ -7,6 +7,7 @@ name = "candidate-relation-residual"
 version = "1.0.0"
 description = "Transport-constrained candidate relation residual learning"
 requires-python = ">=3.10"
+license = {file = "LICENSE"}
 dependencies = ["torch>=2.5.1", "torchvision>=0.20.1", "numpy>=1.26", "scipy>=1.11", "Pillow>=10", "PyYAML>=6"]
 
 [project.optional-dependencies]

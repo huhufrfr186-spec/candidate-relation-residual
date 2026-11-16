@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "Please cite this software when using it."
+type: software
+title: "Transport-Constrained Candidate Relation Residual Learning for UAV Visible–Infrared Object Detection"
+version: 1.0.0
+authors:
+  - family-names: Hu
+    given-names: Yanting
+    email: 202411100612@std.uestc.edu.cn
+    affiliation: "School of Aeronautics and Astronautics, University of Electronic Science and Technology of China, Chengdu 611731, China"
+  - family-names: Zeng
+    given-names: Qinyong
+    email: qyzeng@uestc.edu.cn
+    affiliation: "School of Aeronautics and Astronautics, University of Electronic Science and Technology of China, Chengdu 611731, China"
+  - family-names: Liu
+    given-names: Wei
+    email: 976216573@qq.com
+    affiliation: "School of Aeronautics and Astronautics, University of Electronic Science and Technology of China, Chengdu 611731, China"
+contact:
+  - family-names: Hu
+    given-names: Yanting
+    email: 202411100612@std.uestc.edu.cn
+repository-code: "https://github.com/huhufrfr186-spec/candidate-relation-residual"
+license: MIT
+keywords:
+  - visible-infrared object detection
+  - UAV
+  - rotated object detection
+  - candidate relation residual learning
+  - optimal transport

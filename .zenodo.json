@@ -1,0 +1,36 @@
+{
+  "title": "Transport-Constrained Candidate Relation Residual Learning for UAV Visible–Infrared Object Detection",
+  "upload_type": "software",
+  "description": "Candidate relation residual learning for UAV visible–infrared rotated object detection. The software includes local bipartite candidate graphs, entropic transport with unmatched nodes, weighted candidate relation residual projection, continuous and probabilistic detection heads, training, inference, evaluation, and experiment configurations.",
+  "creators": [
+    {
+      "name": "Hu, Yanting",
+      "affiliation": "School of Aeronautics and Astronautics, University of Electronic Science and Technology of China, Chengdu 611731, China"
+    },
+    {
+      "name": "Zeng, Qinyong",
+      "affiliation": "School of Aeronautics and Astronautics, University of Electronic Science and Technology of China, Chengdu 611731, China"
+    },
+    {
+      "name": "Liu, Wei",
+      "affiliation": "School of Aeronautics and Astronautics, University of Electronic Science and Technology of China, Chengdu 611731, China"
+    }
+  ],
+  "version": "1.0.0",
+  "access_right": "open",
+  "license": "mit",
+  "keywords": [
+    "visible-infrared object detection",
+    "UAV",
+    "rotated object detection",
+    "candidate relation residual learning",
+    "optimal transport"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/huhufrfr186-spec/candidate-relation-residual",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

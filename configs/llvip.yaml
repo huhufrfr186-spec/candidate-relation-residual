@@ -1,0 +1,7 @@
+base: base.yaml
+data:
+  train: data/llvip/train.json
+  val: data/llvip/val.json
+  test: data/llvip/test.json
+model:
+  classes: 1

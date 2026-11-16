@@ -1,0 +1,15 @@
+base: base.yaml
+device: cpu
+data:
+  train: data/smoke/train.json
+  val: null
+  image_size: [32, 32]
+model:
+  pretrained: false
+  classes: 1
+  query_grid: [4, 4]
+  radius: 1
+  output: continuous
+train:
+  epochs: 1
+  accumulation: 1

@@ -1,0 +1,7 @@
+base: base.yaml
+data:
+  train: data/vedai/fold_0_train.json
+  val: data/vedai/fold_0_val.json
+  test: data/vedai/fold_0_test.json
+model:
+  classes: 9
